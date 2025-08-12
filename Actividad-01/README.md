@@ -1,4 +1,4 @@
-# imt2200_actividad1
+# IMT2200 ACT. 01 - BENJAMIN CID R.
 Edite este archivo agregando información útil para quien lo revise.
 
 Buenas tardes,
