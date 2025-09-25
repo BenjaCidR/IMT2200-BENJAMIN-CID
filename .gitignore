@@ -9,3 +9,6 @@ __pycache__/
 
 *.idea
 *.DS_STORE
+.DS_Store
+all_pokemon.json
+
