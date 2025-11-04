@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.idea
+*.DS_STORE
+.DS_STORE
+.DS_Store
+all_pokemon.json
+
+Tareas/T1/data/
+Tareas/T2/data/
+
+T2/*.csv
