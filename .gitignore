@@ -7,3 +7,7 @@ __pycache__/
 .DS_Store
 all_pokemon.json
 
+Tareas/T1/data/
+Tareas/T2/data/
+
+T2/*.csv
